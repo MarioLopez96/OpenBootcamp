@@ -1,4 +1,4 @@
-# instrucciones
+# INSTRUCCIONES
 ### Primera parte:
 
 - Crear una función con tres parámetros que sean números que se suman entre sí.
